@@ -1,0 +1,29 @@
+.conteudo {
+  max-width: 600px;
+  margin: 0 auto;
+
+}
+
+.conteudo header h1 {
+  text-align: center;
+  font-size: 25px;
+}
+
+.conteudo img {
+  width: 100%;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.data {
+  font-size: 0.8rem;
+  color: rgba(97, 97, 97, 0.589);
+  font-weight: 500;
+  padding-top: 3vh;
+}
+.descrição{
+
+  color: rgba(44, 43, 43, 0.993);
+
+}
